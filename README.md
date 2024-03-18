@@ -1,2 +1,2 @@
 # nextjs
-nextjs
+my first nextjs Application 
